@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertdstein)](https://github.com/anuraghazra/github-readme-stats)
+
+https://robertdstein.github.io/
+
 <!--
 **robertdstein/robertdstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
